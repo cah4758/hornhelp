@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hornhelp/static/css/main.22b13272.css",
+    "main.js": "/hornhelp/static/js/main.7cad23d6.js",
+    "static/js/787.14c26924.chunk.js": "/hornhelp/static/js/787.14c26924.chunk.js",
+    "static/media/blackshirt-rehearsal.png": "/hornhelp/static/media/blackshirt-rehearsal.ed5be8dc13f0f0a79f40.png",
+    "static/media/whiteshirt-rehearsal.png": "/hornhelp/static/media/whiteshirt-rehearsal.f911bf99ba43a949236a.png",
+    "static/media/hornhelp-mini-green-logo.png": "/hornhelp/static/media/hornhelp-mini-green-logo.4351ab4c51bc19d780d1.png",
+    "static/media/hornhelp-long-logo-vector.png": "/hornhelp/static/media/hornhelp-long-logo-vector.261b329c5df4bf907fbf.png",
+    "index.html": "/hornhelp/index.html",
+    "main.22b13272.css.map": "/hornhelp/static/css/main.22b13272.css.map",
+    "main.7cad23d6.js.map": "/hornhelp/static/js/main.7cad23d6.js.map",
+    "787.14c26924.chunk.js.map": "/hornhelp/static/js/787.14c26924.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22b13272.css",
+    "static/js/main.7cad23d6.js"
+  ]
+}
