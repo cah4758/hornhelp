@@ -1,70 +1,19 @@
-# Getting Started with Create React App
+# Welcome to hornhelp!
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+If you have met me, you know that I have my background in Music Education. As soon as COVID-19 caused the schools to shut down, there was a gap of web-based apps that I could use to help my students continue learning remotely. My goal with hornhelp is to create a place for students and teachers to continue their learning in terms of Brass Education.
 
-## Available Scripts
+## Goals
 
-In the project directory, you can run:
+- What I have in mind for the future includes a blog for some quick-reading articles that can be easily digested for learners. It's also another reason for me to keep in touch with the amazing educators I have met throughout my teaching career and have them contribute to the blog. Although this is a React-based site, I will be using Angular for the blog to get that exercise and practice with a different framework.
 
-### `npm start`
+- Another goal of mine is to create an app that students can use to improve their memorization of instrument fingerings. Something as customizable as what is seen on [musictheory.net](https://www.musictheory.net/exercises/note).
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+- Finally, I think it would be a cool challenge to take on developing a scheduling app where students and parents can log in and schedule private lessons.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Contribute to the blog?
 
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+If you have some interest in contributing an idea or article to this blog, feel free to contact me by [email](mailto:charlesh4758@gmail.com).
 
 ### Making a Progressive Web App
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
