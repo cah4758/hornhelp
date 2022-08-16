@@ -4,7 +4,7 @@ If you have met me, you know that I have my background in Music Education. As so
 
 ## Goals
 
-- What I have in mind for the future includes a blog for some quick-reading articles that can be easily digested for learners. It's also another reason for me to keep in touch with the amazing educators I have met throughout my teaching career and have them contribute to the blog. Although this is a React-based site, I will be using Angular for the blog to get that exercise and practice with a different framework.
+- What I have in mind for the future includes a blog for some quick-reading articles that can be easily digested for learners. It's also another reason for me to keep in touch with the amazing educators I have met throughout my teaching career and have them contribute to the blog.
 
 - Another goal of mine is to create an app that students can use to improve their memorization of instrument fingerings. Something as customizable as what is seen on [musictheory.net](https://www.musictheory.net/exercises/note).
 
